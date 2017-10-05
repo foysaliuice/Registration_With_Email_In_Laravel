@@ -1,0 +1,130 @@
+#login{
+  background: #3a6a86;
+  font-family:Raleway, 'sans serif';
+  font-weight: 600;
+}
+h1,h2,h3,h4,h5,h6{
+  font-weight: 600;
+}
+.main-panel{
+  top: 100px;
+}
+.login-area{
+  box-shadow: 0px 2px 3px #345f7f;
+  padding: 0px;
+}
+.col-md-12.login-header {
+  background: #3d7097;
+  color: #fff;
+  text-align: center;
+  height: 65px;
+  border-bottom: 3px solid #429CDE;
+}
+.col-md-12.login-body {
+    background: #fff;
+    padding: 20px;
+    font-weight: 600;
+}
+.col-md-12.login-body button{
+  font-weight: 600;
+}
+.sign-in-link{
+  margin-top: 10px;
+  font-size: 11px;
+}
+.form-control{
+  border-radius: 0px !important;
+}
+.login-btn{
+  background: #429CDE;
+  border-radius: 0px;
+  border-color: #429CDE;
+}
+.login-btn:hover{
+  background: #3d7097 !important;
+  border-color: #3d7097;
+}
+
+/* Navbar custom style */
+#navbar-default{
+  border-radius: 0px;
+  margin-bottom: 0px;
+  background: #3d7097;
+  border: 0px;
+  border-bottom: 3px solid #429CDE;
+}
+.navbar-default .navbar-nav>li>a{
+  color: #fff !important;
+}
+.navbar-brand {
+    color: #fff !important;
+}
+ul.dropdown-menu {
+    background: #3d7097;
+    top: 53px;
+    border-radius: 0px;
+    padding: 0px;
+    border: 0px;
+}
+ul.dropdown-menu a{
+  font-weight: 600;
+}
+.navbar .nav > li.dropdown.open.active > a:hover,
+.navbar .nav > li.dropdown.open > a
+{
+   background-color: #429CDE;
+}
+.user-img{
+  float: left;
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+  margin-top: -2px;
+}
+.user-header{
+  height: 175px;
+  padding: 10px;
+  text-align: center;
+}
+#navbar-default .dropdown-menu{
+  width: 280px;
+  color: #fff;
+}
+.user-header>img{
+  z-index: 5;
+  height: 90px;
+  width: 90px;
+  border: 3px solid;
+  border-color: transparent;
+  border-color: rgba(255,255,255,0.2);
+}
+.user-header>p {
+    margin-bottom: 0px;
+}
+.user-footer {
+    background: #fff;
+    height: 50px;
+    padding: 8px 8px;
+}
+.btn-flat{
+  border-radius: 0;
+  border-width: 1px;
+}
+.user-footer .btn-default{
+  color: #666 !important;
+}
+.panel-heading .pull-right{
+  margin-top: -7px;
+  font-weight: 600;
+  border-radius: 0;
+}
+.error-msg{
+  color: #f00;
+}
+.cust-table{
+  font-weight: 600;
+}
+.profile-big-img img{
+  width: 200px;
+  height: auto;
+}
